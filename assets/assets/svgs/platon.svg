@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>1.icon_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 69 68.9037736 69 68.9037736 0.0711320755 0 0.0711320755"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.首页" transform="translate(-50.000000, -89.000000)">
+            <g id="顶部" transform="translate(0.000000, 64.000000)">
+                <g id="1.icon_logo" transform="translate(50.000000, 25.000000)">
+                    <polygon id="Fill-1" fill="#F8BD00" points="25.9277358 43.3105283 42.9760377 43.3105283 42.9760377 26.2609057 25.9277358 26.2609057"></polygon>
+                    <g id="编组" transform="translate(0.000000, 0.250151)">
+                        <path d="M17.745,59.5433962 L52.2087736,59.5433962 C56.2000943,59.5433962 59.4465094,56.2969811 59.4465094,52.3056604 L59.4465094,17.8418868 L51.5140566,17.8418868 L51.5140566,51.6109434 L17.745,51.6109434 L17.745,59.5433962 Z" id="Fill-2" fill="#FFFFFF"></path>
+                        <path d="M51.1585094,17.4604528 L51.1585094,9.52667925 L16.6934151,9.52667925 C12.7034151,9.52667925 9.457,12.7744151 9.457,16.7644151 L9.457,51.2295094 L17.3894528,51.2295094 L17.3894528,17.4604528 L51.1585094,17.4604528 Z" id="Fill-4" fill="#FFFFFF"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-7"></g>
+                        <polygon id="Fill-6" fill="#00B6DE" mask="url(#mask-2)" points="59.4471698 9.52773585 68.9037736 9.52773585 68.9037736 0.0711320755 59.4471698 0.0711320755"></polygon>
+                        <polygon id="Fill-8" fill="#E30065" mask="url(#mask-2)" points="0 69 9.45660377 69 9.45660377 59.5433962 0 59.5433962"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

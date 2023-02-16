@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="142px" viewBox="0 0 375 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="展位图" transform="translate(0.000000, -283.000000)">
+            <rect fill="#F7F7F7" x="0" y="0" width="375" height="1000"></rect>
+            <rect id="矩形" fill="#FFFFFF" x="0" y="216" width="375" height="226"></rect>
+            <g id="编组-12" transform="translate(20.000000, 284.000000)">
+                <rect id="矩形备份-8" stroke="#EDEDED" stroke-width="0.5" stroke-linecap="square" x="0" y="0" width="120" height="140" rx="14"></rect>
+                <path d="M14,0 L106,0 C113.731986,-1.42034288e-15 120,6.2680135 120,14 L120,64 L120,64 L0,64 L0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="蒙版" fill="#F7F7F7"></path>
+                <rect id="矩形" fill="#F7F7F7" x="22" y="74" width="78" height="16"></rect>
+                <g id="编组-13" transform="translate(11.000000, 98.000000)" fill="#F7F7F7">
+                    <rect id="矩形备份" x="0" y="0" width="100" height="10"></rect>
+                    <rect id="矩形备份-4" x="0" y="17" width="70" height="10"></rect>
+                </g>
+            </g>
+            <g id="编组-12备份" transform="translate(150.000000, 284.000000)">
+                <rect id="矩形备份-8" stroke="#EDEDED" stroke-width="0.5" stroke-linecap="square" x="0" y="0" width="120" height="140" rx="14"></rect>
+                <path d="M14,0 L106,0 C113.731986,-1.42034288e-15 120,6.2680135 120,14 L120,64 L120,64 L0,64 L0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="蒙版" fill="#F7F7F7"></path>
+                <rect id="矩形" fill="#F7F7F7" x="22" y="74" width="78" height="16"></rect>
+                <rect id="矩形备份" fill="#F7F7F7" x="11" y="98" width="100" height="10"></rect>
+                <rect id="矩形备份-4" fill="#F7F7F7" x="11" y="115" width="70" height="10"></rect>
+            </g>
+            <g id="编组-12备份-2" transform="translate(280.000000, 284.000000)">
+                <rect id="矩形备份-8" stroke="#EDEDED" stroke-width="0.5" stroke-linecap="square" x="0" y="0" width="120" height="140" rx="14"></rect>
+                <path d="M14,0 L106,0 C113.731986,-1.42034288e-15 120,6.2680135 120,14 L120,64 L120,64 L0,64 L0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="蒙版" fill="#F7F7F7"></path>
+                <rect id="矩形" fill="#F7F7F7" x="22" y="74" width="78" height="16"></rect>
+                <rect id="矩形备份" fill="#F7F7F7" x="11" y="98" width="100" height="10"></rect>
+                <rect id="矩形备份-4" fill="#F7F7F7" x="11" y="115" width="70" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
