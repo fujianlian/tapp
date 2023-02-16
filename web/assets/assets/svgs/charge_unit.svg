@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5</title>
+    <g id="主页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="计价单位" transform="translate(-15.000000, -406.000000)">
+            <rect fill="#ffffff" x="0" y="0" width="375" height="812"></rect>
+            <rect id="Background备份" fill="#FFFFFF" x="0" y="388" width="375" height="56"></rect>
+            <g transform="translate(20.500000, 406.800000)" stroke="#00BFAF" stroke-linecap="round" stroke-width="1.3">
+                <path d="M8.22453217e-13,13.4473885 C0.560658215,14.8626747 2.23440517,16.0547368 4.04214592,16.0547368 C6.58332634,16.0547368 8.31114096,14.3172717 8.04903031,12.3957043 C7.7316766,10.0668106 5.58428955,9.61671194 4.08328436,9.04849493 C2.43826203,8.42575914 0.770996094,7.8760092 0.504239778,5.80599375 C0.250552116,3.83739039 2.33313744,2.34947368 4.65099488,2.34947368 C6.45991101,2.34947368 7.99731341,3.36548807 8.55797162,4.78077425" id="Stroke-1"></path>
+                <line x1="4.65099488" y1="2.34947368" x2="4.65099488" y2="-1.67157516e-13" id="路径-26"></line>
+                <line x1="4.65099488" y1="18.4042105" x2="4.65099488" y2="16.0547368" id="路径-26备份"></line>
+            </g>
+        </g>
+    </g>
+</svg>

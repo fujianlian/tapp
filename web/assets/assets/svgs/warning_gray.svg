@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>感叹号</title>
+    <g id="NFT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.3.2切图" transform="translate(-57.000000, -63.000000)">
+            <g id="感叹号" transform="translate(58.000000, 64.000000)">
+                <circle id="椭圆形" stroke="#C7BEBB" cx="7" cy="7" r="7"></circle>
+                <g id="编组-9" transform="translate(6.125000, 4.000000)">
+                    <line x1="0.875" y1="0" x2="0.875" y2="3" id="路径-38" stroke="#C7BEBB" stroke-width="2" stroke-linecap="round"></line>
+                    <circle id="椭圆形" fill="#C7BEBB" cx="1" cy="6" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

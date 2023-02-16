@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <g id="NFT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NFT-切图" transform="translate(-55.000000, -140.000000)">
+            <g id="编组-4" transform="translate(55.000000, 140.000000)">
+                <circle id="椭圆形" fill="#FFFFFF" opacity="0.800000012" cx="19" cy="19" r="19"></circle>
+                <path d="M15,23.8402024 C15,25.0217911 15.8378538,25.5051683 16.8604651,24.9143739 L24.2314303,20.6585063 C25.2561899,20.0677119 25.2561899,19.1009575 24.2314303,18.5101632 L16.8604651,14.2521472 C15.8357055,13.6613528 15,14.14473 15,15.3263187 L15,23.8402024 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "depoly": "gh-pages -d web"
+    },
+    "dependencies": {
+      "gh-pages": "^3.2.3"
+    }
+  }

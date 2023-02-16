@@ -1,0 +1,1184 @@
+[
+  {
+    "name": "MetaMask",
+    "native": "metamask:",
+    "universal": "https://metamask.app.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/5195e9db-94d8-4579-6f11-ef553be95100.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Trust",
+    "native": "trust:",
+    "universal": "https://link.trustwallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0528ee7e-16d1-4089-21e3-bbfb41933100.jpg",
+    "color": "#3375bb",
+    "needBorder": true
+  },
+  {
+    "name": "imToken",
+    "native": "imtokenv2:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1991f85d-43d4-4165-3502-cd6ef8312b00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "AlphaWallet",
+    "native": "awallet:",
+    "universal": "https://aw.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/5b1cddfb-056e-4e78-029a-54de5d70c500.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "ONTO",
+    "native": "ontoprovider:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d22b2a4b-5562-49ba-506b-6d5986914600.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Crypto.com | DeFi Wallet",
+    "native": "cryptowallet:",
+    "universal": "https://wallet.crypto.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/7c5ff577-a68d-49c5-02cd-3d83637b0b00.jpg",
+    "color": "#1199fa",
+    "needBorder": true
+  },
+  {
+    "name": "Coin98",
+    "native": "coin98:",
+    "universal": "https://coin98.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/dee547be-936a-4c92-9e3f-7a2350a62e00.jpg",
+    "color": "#272727"
+  },
+  {
+    "name": "Rainbow",
+    "native": "rainbow:",
+    "universal": "https://rnbwapp.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/6089655c-cb7e-414b-f742-01fdc154be00.jpg",
+    "color": "#001e59"
+  },
+  {
+    "name": "Pillar",
+    "native": "pillarwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0eb8230d-ce4c-42fb-2a57-a84a6eb7ea00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Spot",
+    "native": "spot://",
+    "universal": "https://spot.so",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1bf33a89-b049-4a1c-d1f6-4dd7419ee400.jpg",
+    "color": "#29C0FF"
+  },
+  {
+    "name": "TokenPocket",
+    "native": "tpoutside:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f3119826-4ef5-4d31-4789-d4ae5c18e400.jpg",
+    "color": "#2982fe"
+  },
+  {
+    "name": "BitPay",
+    "native": "bitpay:",
+    "universal": "https://link.bitpay.com/wallet",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/97d4429f-eaf0-4302-87f5-9d26d46fe700.jpg",
+    "color": "#1a3c8b"
+  },
+  {
+    "name": "Zerion",
+    "native": "zerion://",
+    "universal": "https://wallet.zerion.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f216b371-96cf-409a-9d88-296392b85800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Omni",
+    "native": "omni",
+    "universal": "https://links.omni.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/2cd67b4c-282b-4809-e7c0-a88cd5116f00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "BitKeep",
+    "native": "bitkeep://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3f7075d0-4ab7-4db5-404d-3e4c05e6fe00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "OKX Wallet",
+    "native": "okex://main",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/45f2f08e-fc0c-4d62-3e63-404e72170500.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Argent",
+    "native": "argent://app",
+    "universal": "https://argent.link/app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ce5fbfe8-13b5-4f5f-184a-34f6ee7a3d00.jpg",
+    "color": "#ff875b",
+    "needBorder": true
+  },
+  {
+    "name": "KEYRING PRO",
+    "native": "keyring:",
+    "universal": "https://keyring.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/dda0f0fb-34e8-4a57-dcea-b008e7d1ff00.jpg",
+    "color": "#00D2C9",
+    "needBorder": true
+  },
+  {
+    "name": "MathWallet",
+    "native": "mathwallet:",
+    "universal": "https://www.mathwallet.org",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/26a8f588-3231-4411-60ce-5bb6b805a700.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "SafeMoon",
+    "native": "safemoon:",
+    "universal": "https://safemoon.net/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ecc31a8e-0ee9-49db-cc59-0876b7c35600.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Safe (previously Gnosis Safe)",
+    "native": "gnosissafe:",
+    "universal": "https://gnosis-safe.io/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a1cb2777-f8f9-49b0-53fd-443d20ee0b00.jpg",
+    "color": "#12FF80",
+    "needBorder": true
+  },
+  {
+    "name": "Ledger Live",
+    "native": "ledgerlive:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a7f416de-aa03-4c5e-3280-ab49269aef00.jpg",
+    "color": "#000000"
+  },
+  {
+    "name": "1inch Wallet",
+    "native": "1inch:",
+    "universal": "https://wallet.1inch.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/dce1ee99-403f-44a9-9f94-20de30616500.jpg",
+    "color": "#1f242e"
+  },
+  {
+    "name": "iToken Wallet",
+    "native": "huobiwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/5cd60c34-038d-470c-c024-d58f64260200.jpg",
+    "color": "#2d67f8",
+    "needBorder": true
+  },
+  {
+    "name": "Eidoo",
+    "native": "eidoo:",
+    "universal": "https://eidoo.io/crypto-wallet",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ef5b8bcf-00d5-457d-e161-9911e4788700.jpg",
+    "color": "#37b39e",
+    "needBorder": true
+  },
+  {
+    "name": "CoolWallet",
+    "native": "coolwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/e97c4a6d-cd91-4331-ac98-196141df5300.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Unstoppable Wallet",
+    "native": "moneyunstoppable:",
+    "universal": "https://unstoppable.money",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/5c38b22c-adb9-4899-3252-6e3d71458500.jpg",
+    "color": "#FFBE43"
+  },
+  {
+    "name": "D'CENT Wallet",
+    "native": "dcent:",
+    "universal": "https://link.dcentwallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1efb49ec-2bab-4fa1-f2f2-4392c64ed000.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "ZelCore",
+    "native": "zel:",
+    "universal": "https://link.zel.network",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/97d45a92-a1f0-46da-95a6-ad5db99f3500.jpg",
+    "color": "#232220",
+    "needBorder": true
+  },
+  {
+    "name": "Nash",
+    "native": "nash:",
+    "universal": "https://nash.io/walletconnect",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/12f981b1-bb0a-4115-009f-317255979600.jpg",
+    "color": "#0052f3"
+  },
+  {
+    "name": "Coinomi",
+    "native": "coinomi:",
+    "universal": "https://coinomi.page.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3b446d16-a908-40c8-5835-9a6efe90dd00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "CYBAVO Wallet",
+    "native": "cybavowallet:",
+    "universal": "https://cdn.cybavo.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3117d3ce-b973-4cfd-8fb5-f5d72ed3c200.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "SafePal",
+    "native": "safepalwallet:",
+    "universal": "https://link.safepal.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/07cfaa0a-562e-4536-c584-ab4014b38b00.jpg",
+    "color": "#4A21EF",
+    "needBorder": true
+  },
+  {
+    "name": "Bridge Wallet",
+    "native": "bridgewallet:",
+    "universal": "https://bridge.mtpelerin.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/989d504f-93db-4ca6-c00a-9d1faf177d00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "SparkPoint",
+    "native": "sparkpoint:",
+    "universal": "https://sparkpoint.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/34c4f901-70de-4507-e7a0-bc7887843000.jpg",
+    "color": "#14435f",
+    "needBorder": true
+  },
+  {
+    "name": "PEAKDEFI Wallet",
+    "native": "peakdefiwallet:",
+    "universal": "https://peakdefi.com/download",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/744a3fbe-4261-4148-133e-49c5b58cb400.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Ellipal",
+    "native": "ellipal:",
+    "universal": "https://www.ellipal.com/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0a805e10-bfc0-4d02-d9c1-8cec88f0dc00.jpg",
+    "color": "#307cf9",
+    "needBorder": true
+  },
+  {
+    "name": "Aktionariat",
+    "native": "aktionariat:",
+    "universal": "https://app.aktionariat.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/6d18e8ea-b536-4038-c5bf-94a499d5a400.jpg",
+    "color": "#000000"
+  },
+  {
+    "name": "Talken Wallet",
+    "native": "talken-wallet:",
+    "universal": "https://talken.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1afb5a3a-2da3-40ce-baf9-b416e7510600.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "KyberSwap",
+    "native": "kyberswap:",
+    "universal": "https://kyberswapnew.app.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3abd1720-260e-495a-2e31-3d0b349e0d00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Tongue Wallet",
+    "native": "tongue:",
+    "universal": "https://www.tongue.fi",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/20bc4fdb-b9e6-429a-8cba-c233b3273000.jpg",
+    "color": "#ff3178"
+  },
+  {
+    "name": "RWallet",
+    "native": "rwallet:",
+    "universal": "https://www.rwallet.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a883229c-26cb-4c19-9b34-1f0ed4012a00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "PlasmaPay",
+    "native": "plasmapay:",
+    "universal": "https://plasmapay.com/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/466c8fd0-fcec-4621-b94f-e91ce1439f00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "O3Wallet",
+    "native": "o3wallet:",
+    "universal": "https://o3.network",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/e1c7c6af-c731-463e-55f0-5e686e9f6200.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Defiant",
+    "native": "defiantapp:",
+    "universal": "https://defiantapp.tech",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/026462e7-09a3-47f6-6b46-49df18133b00.jpg",
+    "color": "#274A60"
+  },
+  {
+    "name": "Valora",
+    "native": "celo://wallet",
+    "universal": "https://valoraapp.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a03bfa44-ce98-4883-9b2a-75e2b68f5700.jpg",
+    "color": "#42D689"
+  },
+  {
+    "name": "Celo Wallet",
+    "native": "celowallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/482c9981-61c0-4782-84ec-c80fd997da00.jpg",
+    "color": "#35D07F",
+    "needBorder": true
+  },
+  {
+    "name": "Elastos Essentials",
+    "native": "essentials:",
+    "universal": "https://essentials.elastos.net",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/04a6bfed-d80e-4f7b-0516-261f86aa4000.jpg",
+    "color": "#000000",
+    "needBorder": true
+  },
+  {
+    "name": "fuse.cash",
+    "native": "fuse.cash:",
+    "universal": "https://app.fuse.cash/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/71828267-72d6-4680-e144-265e6dc1e400.jpg",
+    "color": "#37D888"
+  },
+  {
+    "name": "Stasis",
+    "native": "stasis:",
+    "universal": "https://app.stasis.net",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/7ae753bc-a754-450c-2d90-2c5521734400.jpg",
+    "color": "#2468E4"
+  },
+  {
+    "name": "JulWallet",
+    "native": "julwallet:",
+    "universal": "https://justliquidity.org",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/cabd50de-22fa-487b-ce68-2c63de8bb800.jpg",
+    "color": "#c84ce4",
+    "needBorder": true
+  },
+  {
+    "name": "Bitpie",
+    "native": "bitpie:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f9b7c668-ed26-47f7-d8c9-7eadc7114800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "ArchiPage",
+    "native": "archipage:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/b62c4f22-e781-4ca9-5c01-ef7cd9d23400.jpg",
+    "color": "#000"
+  },
+  {
+    "name": "Tangem",
+    "native": "tangem:",
+    "universal": "https://app.tangem.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/8a5b6e94-e378-458d-bf2e-017cc7958e00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "yiToken",
+    "native": "yitoken:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/b5cc13d4-2a58-4142-08dd-5596ab253800.jpg",
+    "color": "#2c4cfc"
+  },
+  {
+    "name": "DID Wallet",
+    "native": "abt:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/673b7f3b-a555-4327-f9b7-fefa535bc500.jpg",
+    "color": "#4598FA"
+  },
+  {
+    "name": "Binana",
+    "native": "",
+    "universal": "https://master.tokenone.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/65a60845-8fe3-4146-2688-586e4dc68a00.jpg",
+    "color": "#000"
+  },
+  {
+    "name": "AirGap Wallet",
+    "native": "airgap-wallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/76bfe8cd-cf3f-4341-c33c-60da01065000.jpg",
+    "color": "#50249f",
+    "needBorder": true
+  },
+  {
+    "name": "SecuX",
+    "native": "secux://",
+    "universal": "https://wsweb.secuxtech.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d46a33d6-92a1-4dfd-38d4-779815fb5c00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Orange",
+    "native": "orangewallet:",
+    "universal": "https://link.orangewallet.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/7fcbf9f0-0c0b-439d-3fdb-31b32c28df00.jpg",
+    "color": "#EB5B56",
+    "needBorder": true
+  },
+  {
+    "name": "Avacus",
+    "native": "avacus:",
+    "universal": "https://avacus.app.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/e90bf788-03e3-48eb-e892-adfae0a61500.jpg",
+    "color": "#f7a026"
+  },
+  {
+    "name": "Krystal",
+    "native": "krystalWallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/91449cb2-57b0-4bb6-481b-47d489f7a800.jpg",
+    "color": "#1de9b6"
+  },
+  {
+    "name": "Linen",
+    "native": "",
+    "universal": "https://linen.app/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/91458f54-aabe-44cf-4788-159ccc733600.jpg",
+    "color": "#009fbe"
+  },
+  {
+    "name": "Ambire Wallet",
+    "native": "ambire:",
+    "universal": "https://mobile.ambire.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/c39b3a16-1a38-4588-f089-cb7aeb584700.jpg",
+    "color": "#aa6aff",
+    "needBorder": true
+  },
+  {
+    "name": "Autonomy: Digital Art Wallet",
+    "native": "autonomy-wc",
+    "universal": "https://autonomy.io/apps/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/672e9061-e0c9-45ec-5d9c-9fd10e83e800.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Fireblocks",
+    "native": "fireblocks-wc://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/7e1514ba-932d-415d-1bdb-bccb6c2cbc00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "WATT ME",
+    "native": "wattwallet://wallet-connect/",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/38c619c4-5365-4de5-09b2-cdde8caf3600.jpg",
+    "color": "#F5EB51",
+    "needBorder": true
+  },
+  {
+    "name": "Coingrig",
+    "native": "coingrig://",
+    "universal": "https://link.coingrig.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/18e38e41-a387-4402-ca31-6d2d5eb91100.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Spatium",
+    "native": "",
+    "universal": "https://caspiantechnologies.bitbucket.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/51867bee-2963-4071-d67a-1fdcaa451f00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "bobablocks",
+    "native": "bobablocks://",
+    "universal": "https://app.bobablocks.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/aff8973b-e093-45b5-4858-c01dd043bc00.jpg",
+    "color": "#1c3146"
+  },
+  {
+    "name": "Plasma Wallet",
+    "native": "plasmawallet:",
+    "universal": "https://plasma-wallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/c268e78d-ffb0-4c8b-5cad-04c3add48500.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "HUMBL WALLET",
+    "native": "humblwallet:",
+    "universal": "https://wallet.search3.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1ac55ba2-aa98-4ed0-59b3-b3155dea4200.jpg",
+    "color": "#24ace4"
+  },
+  {
+    "name": "Zelus",
+    "native": "zeluswallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/aeba2105-6c84-4642-f441-b3f5817ac400.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Safematrix",
+    "native": "",
+    "universal": "https://safematrix.io/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/48ea5de9-869a-4994-2402-97afba060900.jpg",
+    "color": "#ff3366",
+    "needBorder": true
+  },
+  {
+    "name": "Earth Wallet",
+    "native": "earthwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d3f724c4-f99b-476f-10f8-12aa4af13800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Wallet 3",
+    "native": "wallet3:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/34ab7558-9e64-4436-f4e6-9069f2533d00.jpg",
+    "color": "#6186ff"
+  },
+  {
+    "name": "EASY",
+    "native": "co.theeasy.app://",
+    "universal": "https://link.easy.me",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/62feb41a-be1f-4b1c-e089-27f97c0e8d00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "ISLAMIwallet",
+    "native": "poc://islamiwallet.com",
+    "universal": "https://islamiwallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/8d723c78-28ad-4610-901f-ea391d7e8d00.jpg",
+    "color": "#24262E"
+  },
+  {
+    "name": "Card Wallet",
+    "native": "cardwallet://",
+    "universal": "https://wallet.cardstack.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/325428cf-c212-4d83-a434-7f48902d2c00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "FILWallet",
+    "native": "",
+    "universal": "https://h5.filwallet.co",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f400f6c2-ca6c-487b-654d-e119af247500.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "PLTwallet",
+    "native": "pltwallet:",
+    "universal": "https://pltwallet.io/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a5d9dd15-8cef-42de-8bed-09e01a8b0200.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "StrikeX Wallet",
+    "native": "strikex://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/cae46de2-b432-4002-8bc8-1f0e7380b200.jpg",
+    "color": "#5C60FF"
+  },
+  {
+    "name": "Bitski",
+    "native": "",
+    "universal": "https://wallet.bitski.com/walletconnect",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/94d94cb5-a94f-47cf-70e6-fe8d3f1c3700.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Edge Wallet",
+    "native": "edge://wc",
+    "universal": "https://deep.edge.app/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f601bc29-4298-422f-dbf7-34dac2884f00.jpg",
+    "color": "#66EDA8"
+  },
+  {
+    "name": "Core",
+    "native": "",
+    "universal": "https://core.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/35f9c46e-cc57-4aa7-315d-e6ccb2a1d600.jpg",
+    "color": "#000000"
+  },
+  {
+    "name": "Freedom Wallet",
+    "native": "freedom-wallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/42a6f275-96c8-4cd0-9b7a-acc5f054a800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Assure",
+    "native": "assure://",
+    "universal": "https://www.assure.pro/Official",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/64db7104-c8b7-44ea-e102-11ce87124200.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Cosmostation",
+    "native": "cosmostation://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ea26c3c8-adb6-4dc4-ee02-35d6eee02800.jpg",
+    "color": "#9c6cff"
+  },
+  {
+    "name": "Paper Wallet",
+    "native": "",
+    "universal": "https://paper.xyz",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/37d7a10f-d94d-4a56-c30e-267e8afbd500.jpg",
+    "color": "#32CAFF"
+  },
+  {
+    "name": "Xcapit",
+    "native": "",
+    "universal": "https://app.xcapit.com/links/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/17f59b75-21b0-4b3f-b024-fe4b9b8d2300.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "THORWallet",
+    "native": "thorwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/19a02756-462c-4e8a-2d32-af0f9bcf3d00.jpg",
+    "color": "#000000"
+  },
+  {
+    "name": "CoinStats",
+    "native": "coinstats:",
+    "universal": "https://coinstats.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f989ab84-650b-4ad5-c342-77f3334f1b00.jpg",
+    "color": "#000000"
+  },
+  {
+    "name": "Abra Wallet",
+    "native": "abra:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/2219db01-e0c9-471c-5def-fd3b4e7a7a00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Opera Crypto Browser",
+    "native": "cryptobrowser://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/877fa1a4-304d-4d45-ca8e-f76d1a556f00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "DopamineApp",
+    "native": "",
+    "universal": "https://share.dopamineapp.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/7ed8ec36-fb7c-4b43-494b-36e907101f00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "ParaSwap Wallet",
+    "native": "",
+    "universal": "https://wallet.paraswap.io/#/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/73dc6b30-b644-46e6-020c-5926851df600.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Pera Wallet",
+    "native": "algorand://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d4a1258e-d154-4885-0489-856c33e91e00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "nobank",
+    "native": "https://nobank.one/wc",
+    "universal": "https://nobank.one/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/1105bafa-1fb0-4ac7-1f16-e8706af12000.jpg",
+    "color": "#221C16"
+  },
+  {
+    "name": "Keywallet Touch",
+    "native": "https://play.google.com/store/apps/details?id=kr.co.keypair.keywalletTouch",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ceefb75b-2632-40c6-7471-ea23d3d49800.jpg",
+    "color": "#ecbf51",
+    "needBorder": true
+  },
+  {
+    "name": "Enno Wallet",
+    "native": "ennowallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ae4f5167-0b61-43bd-7d76-1f8579271000.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Talk+",
+    "native": "talkapp:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d24cdd56-6f55-42da-631b-c25974c36f00.jpg",
+    "color": "#FCD86C"
+  },
+  {
+    "name": "Bitcoin.com Wallet",
+    "native": "bitcoincom://",
+    "universal": "https://wallet.bitcoin.com/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0d7938e1-9b3b-4d8b-177b-98188c4cf400.jpg",
+    "color": "#0AC18E"
+  },
+  {
+    "name": "Defiant",
+    "native": "defiantapp://",
+    "universal": "https://defiantapp.tech/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/11a96ca4-3592-42ae-c781-2b7265ec9200.jpg",
+    "color": "#00bd57"
+  },
+  {
+    "name": "Payperless",
+    "native": "https://payperless.onelink.me/koUq/59e32ce7",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/4a867e30-44c9-4627-6281-33457b8e2100.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "KryptoGO Wallet",
+    "native": "https://kryptogo.page.link",
+    "universal": "https://kryptogo.page.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3ccbd966-97e8-45a0-1ceb-6141a8978e00.jpg",
+    "color": "#FFC211"
+  },
+  {
+    "name": "Snowball",
+    "native": "",
+    "universal": "https://app.snowball.exchange/app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/313faea4-af8c-41f4-0ed8-98be5d048e00.jpg",
+    "color": "#292E39"
+  },
+  {
+    "name": "LOBSTR Wallet",
+    "native": "lobstr://wc",
+    "universal": "https://lobstr.co/uni/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0dafcaab-0852-47f7-85dd-436b86491d00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Bifrost Wallet",
+    "native": "bifrostwallet:",
+    "universal": "https://app.bifrostwallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/86be07e2-6652-4fd1-5f33-651682c95400.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Okse Wallet",
+    "native": "oksewallet:",
+    "universal": "https://okse.io/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/8a1b36d5-7f40-403a-7000-5d30f9181200.jpg",
+    "color": "#e51b23"
+  },
+  {
+    "name": "Frontier",
+    "native": "frontier://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a78c4d48-32c1-4a9d-52f2-ec7ee08ce200.jpg",
+    "color": "#CC703C"
+  },
+  {
+    "name": "TTM Wallet",
+    "native": "ttmwalletapp:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/82014e92-838b-4e75-e77e-76cdc5539d00.jpg",
+    "color": "#1BD099"
+  },
+  {
+    "name": "Qubic Wallet",
+    "native": "qubic:",
+    "universal": "https://wallet.qubic.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/2e9ef302-daae-4807-555f-d4986b0b6700.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "BeeWallet",
+    "native": "",
+    "universal": "https://main.apple.bee9527.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ae53ba0b-4d01-42f6-53d8-cc568409b700.jpg",
+    "color": "#ffc04d"
+  },
+  {
+    "name": "Dentacoin Wallet",
+    "native": "dentacoin-wallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/34910dc0-9f3b-4407-115d-673707602900.jpg",
+    "color": "#03b5de"
+  },
+  {
+    "name": "Opto Wallet",
+    "native": "opto://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3df102e4-e435-49dd-d4b1-5ea74ebed500.jpg",
+    "color": "#0caade"
+  },
+  {
+    "name": "XFUN Wallet",
+    "native": "xfunwallet://wc",
+    "universal": "https://xfun.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a665f8f3-09ef-4d17-2bd0-26dca4518400.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Exodus",
+    "native": "wc:",
+    "universal": "https://exodus.com/m",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/4c16cad4-cac9-4643-6726-c696efaf5200.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Blockchain.com",
+    "native": "",
+    "universal": "https://login.blockchain.com/deeplink/login/wallet-connect",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/fc282669-2dbe-44d5-33fc-9168fcf08600.jpg",
+    "color": "#0C6CF2",
+    "needBorder": true
+  },
+  {
+    "name": "Uvtoken",
+    "native": "UvToken://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/52b9a9fc-caff-469e-033b-6d6f14e41800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "S-ONE Wallet",
+    "native": "sone://",
+    "universal": "https://sonewallet.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/b3562637-a407-4035-6fa5-a70ff2050400.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "PREMA Wallet",
+    "native": "premawallet:",
+    "universal": "https://premanft.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/6487869b-1165-4f30-aa3a-115665be8300.jpg",
+    "color": "#0e58a6"
+  },
+  {
+    "name": "Marble",
+    "native": "",
+    "universal": "https://app.marblewallet.com/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/eb6de921-6824-4f35-6331-8a8b031e7100.jpg",
+    "color": "#F24B01",
+    "needBorder": true
+  },
+  {
+    "name": "Shinobi-Wallet",
+    "native": "shinobi-wallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/685c986c-3e80-4701-cec6-cd247ba1a700.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "LocalTrade Wallet",
+    "native": "",
+    "universal": "https://ws.lab.localtrade.cc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/fcc60983-74ae-484a-4242-87cb6f05f100.jpg",
+    "color": "#00957B"
+  },
+  {
+    "name": "ByteBank",
+    "native": "hideoutWallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/bc7aacd6-b2e2-4146-7d21-06e0c5d44f00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Fundamenta Mobile",
+    "native": "",
+    "universal": "https://app.civiport.online",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/79797f9e-a6c7-4284-1a1c-88332f11ea00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Ancrypto Wallet",
+    "native": "ancrypto://app",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d4382329-e288-4d7a-0ac8-3eb0facfb900.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Bee Wallet",
+    "native": "beewallet.app://wc",
+    "universal": "https://beewallet.app/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f90bc33f-f085-40cf-7538-fae5ae84f900.jpg",
+    "color": "#14181E"
+  },
+  {
+    "name": "LATOKEN Multichain DeFi Wallet",
+    "native": "dfwallet:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ff858a37-cbcb-413d-c1ed-917a444bea00.jpg",
+    "color": "#5661FF"
+  },
+  {
+    "name": "TK Finance",
+    "native": "tk://",
+    "universal": "https://trustkeys.network",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/c4066f68-2247-49bf-ac8a-a677bfa81800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Oxalus Wallet",
+    "native": "oxalus://",
+    "universal": "https://oxalus.page.link/?apn=io.oxalus.wallet&isi=1620111723&ibi=io.oxalus.wallet&link=https://deeplink.oxalus.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a6e22fcb-6b69-45d2-b52d-a4a347a21e00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Nitrogen Wallet",
+    "native": "",
+    "universal": "https://nitrogen.org/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/af185895-cda5-4eaf-e31b-28b6fe4b0800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "ApolloX",
+    "native": "",
+    "universal": "https://app.apollox.finance",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/80ab63a2-1b32-4140-3577-9fbc8ea82e00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "CoinCircle",
+    "native": "",
+    "universal": "https://coincircle.com/app/walletconnect",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/eae63a23-c7ba-4f7e-24b3-e6fc69215d00.jpg",
+    "color": "#2499c4"
+  },
+  {
+    "name": "3S Wallet",
+    "native": "bhcwallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f3b6a89d-ec8f-49dc-e07f-6bf723e1e500.jpg",
+    "color": "#D10D79",
+    "needBorder": true
+  },
+  {
+    "name": "Sequence Wallet",
+    "native": "",
+    "universal": "https://sequence.app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/b2d5c39c-a485-4efa-5736-a782204e4a00.jpg",
+    "color": "#4E47F5"
+  },
+  {
+    "name": "Klever Wallet",
+    "native": "kleverwallet:",
+    "universal": "https://klever.page.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/8f5bbad8-6a14-4b2c-5343-cc1fca6e4d00.jpg",
+    "color": "#DC3F89",
+    "needBorder": true
+  },
+  {
+    "name": "OneKey",
+    "native": "onekey-wallet://",
+    "universal": "https://app.onekey.so/wc/connect",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/12bebb3f-8030-4892-8452-c60a6bac1500.jpg",
+    "color": "#00B812",
+    "needBorder": true
+  },
+  {
+    "name": "Vision: Crypto Wallet",
+    "native": "",
+    "universal": "https://app.vision-crypto.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/64ccf07c-1fba-4473-49e8-dc446e5a5000.jpg",
+    "color": "#0b121c"
+  },
+  {
+    "name": "helix id",
+    "native": "helix-id://helix-id.com",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/4083ef71-8389-4682-ded6-0099236d2e00.jpg",
+    "color": "#0021FF"
+  },
+  {
+    "name": "CeloDance",
+    "native": "celo://wallet/dappkit/celodance",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/47c8ab7b-a66c-4949-f0fe-b0c2c169ee00.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "Volt: DeFi",
+    "native": "volt:",
+    "universal": "https://get.voltage.finance",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/51d783cb-0686-4ffa-e661-edca0c380000.jpg",
+    "color": "#70E000"
+  },
+  {
+    "name": "Wirex Wallet",
+    "native": "wirexwallet://wc?uri=wc:00e46b69-d0cc-4b3e-b6a2-cee442f97188@1?bridge=https%3A%2F%2Fbridge.walletconnect.org&key=91303dedf64285cbbaf9120f6e9d160a5c8aa3deb67017a3874cd272323f48ae",
+    "universal": "https://wwallet.app.link/wc?uri=wc:00e46b69-d0cc-4b3e-b6a2-cee442f97188@1?bridge=https%3A%2F%2Fbridge.walletconnect.org&key=91303dedf64285cbbaf9120f6e9d160a5c8aa3deb67017a3874cd272323f48ae",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/769739aa-ff45-4db5-c6e6-70590741ec00.jpg",
+    "color": "#C9FFC6"
+  },
+  {
+    "name": "Monarch Wallet",
+    "native": "",
+    "universal": "https://monarchwallet.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/c664d955-8a1e-4460-3917-4cfcf198f000.jpg",
+    "color": "#F9A900"
+  },
+  {
+    "name": "Robinhood Wallet",
+    "native": "robinhood-wallet://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/dfe0e3e3-5746-4e2b-12ad-704608531500.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "RiceWallet",
+    "native": "ricewallet",
+    "universal": "https://ricewallet.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/df94578e-19be-4f00-258f-2470343e7b00.jpg",
+    "color": "#3361f4"
+  },
+  {
+    "name": "Flooz",
+    "native": "",
+    "universal": "https://wallet.flooz.trade/wc",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/0a04f368-4f56-4c12-0bfa-93b14bb20800.jpg",
+    "color": "#5E38F4"
+  },
+  {
+    "name": "SimpleHold",
+    "native": "simplehold://wc?uri=",
+    "universal": "https://simplehold.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/a9f1ba96-b658-4d13-f71f-226b6389f000.jpg",
+    "color": "#3FBB7D",
+    "needBorder": true
+  },
+  {
+    "name": "UniPass",
+    "native": "",
+    "universal": "https://wallet.unipass.id/",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/e23fe7f2-0c59-49c8-a7a8-d0f50f7f7000.jpg",
+    "color": "#f7f7f7",
+    "needBorder": true
+  },
+  {
+    "name": "ZenGo",
+    "native": "",
+    "universal": "https://get.zengo.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/d1794d97-ea1f-4966-be42-9f614bb5d800.jpg",
+    "color": "#35C4BA"
+  },
+  {
+    "name": "GoldBit",
+    "native": "goldbit://",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/11974ef1-21ab-4806-a2b1-362c31499900.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "ioPay",
+    "native": "iopay:",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/18891f5a-fd0f-4126-7d1a-452be6714700.jpg",
+    "color": "#617AFF"
+  },
+  {
+    "name": "Bitizen",
+    "native": "bitizen://wallet",
+    "universal": "https://bitizen.org/wallet",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/75dd1471-77e9-4811-ce57-ec8fc980ec00.jpg",
+    "color": "#00B78C"
+  },
+  {
+    "name": "Slavi Wallet",
+    "native": "slaviwallet:",
+    "universal": "https://www.slaviwallet.io",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/282ce060-0beb-4236-b7b0-1b34cc6c8f00.jpg",
+    "color": "#F2C75B"
+  },
+  {
+    "name": "Nufinetes",
+    "native": "vimwallet:/",
+    "universal": "https://apple.vimworld.org",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/70080bd7-9858-4720-cf74-8f74cd74cb00.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "Arianee Wallet",
+    "native": "com.arianee.wallet",
+    "universal": "https://arianee.net",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/ace938a9-c906-4b9e-f683-b85f1ab72800.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "NOW Wallet",
+    "native": "walletnow://",
+    "universal": "https://walletnow.app.link",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/b6ee4efc-f53e-475b-927b-a7ded6211700.jpg",
+    "color": "#00C26F"
+  },
+  {
+    "name": "Arculus Wallet",
+    "native": "arculuswc:",
+    "universal": "https://gw.arculus.co/app",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/f78dab27-7165-4a3d-fdb1-fcff06c0a700.jpg",
+    "color": "#f7f7f7"
+  },
+  {
+    "name": "PayBolt",
+    "native": "paybolt://Wallet",
+    "universal": "",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/cc8f4e0c-56a8-465a-6cb6-3e9d60846500.jpg",
+    "color": "#000000",
+    "needBorder": true
+  },
+  {
+    "name": "Nabox",
+    "native": "",
+    "universal": "https://nabox.io/app/*",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/3b75e9f7-2ca8-4a33-ed2b-4e8a0c048d00.jpg",
+    "color": "#53B8A9",
+    "needBorder": true
+  },
+  {
+    "name": "Backpack",
+    "native": "ndj-backpack:",
+    "universal": "https://jxndao.com",
+    "logo": "https://minio.me.hashkey.com/public/walletconnect/e46f132d-6e05-4d51-8720-43727446e600.jpg",
+    "color": "#13053D",
+    "needBorder": true
+  }
+]
