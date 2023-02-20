@@ -1,10 +1,22 @@
-<svg width="36" height="36" viewBox="0 0 36 36">
-    <mask id="mask0_11320_22971" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="36"
-        height="36">
-        <path d="M18 0C27.94 0 36 8.06 36 18C36 27.94 27.94 36 18 36C8.06 36 0 27.945 0 18C0 8.055 8.06 0 18 0Z"
-            fill="white" />
-    </mask>
-    <g mask="url(#mask0_11320_22971)">
-        <rect opacity="0.6" y="24" width="36" height="13.2857" fill="black" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27备份 5</title>
+    <defs>
+        <path d="M18,0 C27.94,0 36,8.06 36,18 C36,27.94 27.94,36 18,36 C8.06,36 0,27.945 0,18 C0,8.055 8.06,0 18,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-122.000000, -419.000000)">
+            <g id="编组-27备份-5" transform="translate(122.000000, 419.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版" fill-rule="nonzero"></g>
+                <g id="标记" mask="url(#mask-2)" fill="#000000" opacity="0.55">
+                    <g transform="translate(0.000000, 24.000000)" id="矩形">
+                        <rect x="0" y="0" width="36" height="13"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
 </svg>
