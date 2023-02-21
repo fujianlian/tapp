@@ -6,9 +6,10 @@ const RESOURCES = {
   "FileSaver.min.js": "9759e700e126aff2a1efaa9d8a9cde9d",
 "version.json": "b8462dff0a43511ab23608304f04e07a",
 "favicon.ico": "801939791d62ba8cb0e3167c0e743ef0",
-"index.html": "599eebcce4a8e13ae4893b97e3667412",
-"/": "599eebcce4a8e13ae4893b97e3667412",
-"main.dart.js": "3967b307a1474e6e90349839363404b5",
+"index.html": "5588ad4ed6a3dd4572048bbe7dd05e41",
+"/": "5588ad4ed6a3dd4572048bbe7dd05e41",
+"main.dart.js": "e4b3dffdf7ae72fe8b79c69db021794a",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "ether.js": "6ed99f4839df6b1d73f760588e715123",
 "icons/Icon-192.png": "a18a2541c6c6e9dd7da79494d65eb13a",
 "icons/Icon-maskable-192.png": "a18a2541c6c6e9dd7da79494d65eb13a",
@@ -150,7 +151,7 @@ const RESOURCES = {
 "assets/assets/svgs/arrow_top.svg": "20bd272de3f99b052f16225f9cbd0d08",
 "assets/assets/svgs/about_us.svg": "9db2ce7ce2a4c560afe1bf541fc13e9d",
 "assets/assets/svgs/expedite_default.svg": "82cb4913ed0f55d1facc1760ba96dd9e",
-"assets/assets/svgs/common_share.svg": "dc1e079361d952bb6124124e7d344fd9",
+"assets/assets/svgs/common_share.svg": "9ea8748053f23bc89cc47aae011dd9f9",
 "assets/assets/svgs/trading_doing.svg": "f8b5987ea71514a3e6ce78a759b62c60",
 "assets/assets/svgs/arrow_right_green.svg": "818cafd3672e72c35cd9160b2da95233",
 "assets/assets/svgs/icon_metadata.svg": "ba90e675814c5884bc5c213146512458",
@@ -334,7 +335,11 @@ const RESOURCES = {
 "assets/assets/fonts/Roboto/Roboto-Medium.ttf": "9745415b8a2a8b9a2480a12f7e2d3ad3",
 "assets/assets/fonts/Roboto/Roboto-Light.ttf": "d5c46b134c17b2138dcd1bb0efa67049",
 "assets/assets/fonts/Roboto/Roboto-Regular.ttf": "5673da52c98bb6cb33ada5aaf649703e",
-"assets/assets/fonts/Roboto/Roboto-Bold.ttf": "36b5bab58a18b9c924861a4ccbf1a790"
+"assets/assets/fonts/Roboto/Roboto-Bold.ttf": "36b5bab58a18b9c924861a4ccbf1a790",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
