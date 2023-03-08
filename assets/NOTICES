@@ -6060,6 +6060,9 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
+vector_graphics
+vector_graphics_codec
+vector_graphics_compiler
 video_player
 video_player_android
 video_player_avfoundation
