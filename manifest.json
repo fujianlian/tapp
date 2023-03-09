@@ -1,6 +1,6 @@
 {
-    "name": "example",
-    "short_name": "example",
+    "name": "HashKey ME",
+    "short_name": "HashKey ME",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -8,6 +8,9 @@
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "content_security_policy": {
+        "extension_pages": "script-src 'self' ; object-src 'self'"
+    },
     "icons": [
         {
             "src": "icons/Icon-192.png",
