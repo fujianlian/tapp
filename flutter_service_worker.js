@@ -5,14 +5,14 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b8462dff0a43511ab23608304f04e07a",
 "favicon.ico": "801939791d62ba8cb0e3167c0e743ef0",
-"index.html": "001a7e1260750ece2e5f734149db9a03",
-"/": "001a7e1260750ece2e5f734149db9a03",
+"index.html": "43782fa485d8ebd123b0ba67181cd864",
+"/": "43782fa485d8ebd123b0ba67181cd864",
 "js/zxing.js": "1259d50407597e5cd08b72255e33b062",
 "js/punycode.es6.js": "f6d4ef13e67d34babf3d2efe9fb41bde",
-"js/firebasejs/9.15.0/firebase-remote-config.js": "2a567808264cc03c7a3b3c1762488f54",
-"js/firebasejs/9.15.0/firebase-app.js": "38554d47ab35af3c2ae87149519d0229",
-"js/firebasejs/9.15.0/firebase-app-check.js": "959d2a35ff9963582af2b285b68d22f8",
-"js/firebasejs/9.15.0/firebase-analytics.js": "ed98644c18287890f00be1f2ba34b8e3",
+"js/firebasejs/9.15.0/firebase-remote-config.js": "a723f70217e3e87302b2aee65bd2e2b4",
+"js/firebasejs/9.15.0/firebase-app.js": "e75f038848d8cb52e25ce04cee5ad412",
+"js/firebasejs/9.15.0/firebase-app-check.js": "db7676cb6eaf730b65e874282f370185",
+"js/firebasejs/9.15.0/firebase-analytics.js": "f79c964d1342d1088fc8669f4a0ac06f",
 "js/idna-map.js": "0e106aec1ed83d181868c681ac9af28b",
 "js/ether.js": "6ed99f4839df6b1d73f760588e715123",
 "js/uts46.js": "ec4c06bd88d5a6ce4d9a86d445cde004",
@@ -346,11 +346,7 @@ const RESOURCES = {
 "assets/assets/fonts/Roboto/Roboto-Medium.ttf": "9745415b8a2a8b9a2480a12f7e2d3ad3",
 "assets/assets/fonts/Roboto/Roboto-Light.ttf": "d5c46b134c17b2138dcd1bb0efa67049",
 "assets/assets/fonts/Roboto/Roboto-Regular.ttf": "5673da52c98bb6cb33ada5aaf649703e",
-"assets/assets/fonts/Roboto/Roboto-Bold.ttf": "36b5bab58a18b9c924861a4ccbf1a790",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/fonts/Roboto/Roboto-Bold.ttf": "36b5bab58a18b9c924861a4ccbf1a790"
 };
 
 // The application shell files that are downloaded before a service worker can
